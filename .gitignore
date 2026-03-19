@@ -53,6 +53,8 @@ pnpm-debug.log*
 .parcel-cache/
 .eslintcache
 .stylelintcache
+wwwroot/dist/
+wwwroot/_framework/
 
 # ------------------------------------------------------------
 # OS-generated clutter

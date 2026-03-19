@@ -1,4 +1,0 @@
-C:\Development\cv-site\bin\Release\net10.0\publish\wwwroot\index.html
-C:\Development\cv-site\bin\Release\net10.0\publish\cv-site.runtimeconfig.json
-C:\Development\cv-site\bin\Release\net10.0\publish\dotnet.js
-C:\Development\cv-site\bin\Release\net10.0\publish\web.config
