@@ -1,0 +1,64 @@
+﻿# ------------------------------------------------------------
+# .NET / Blazor build outputs
+# ------------------------------------------------------------
+bin/
+obj/
+out/
+TestResults/
+artifacts/
+
+# Publish / packaging outputs
+publish/
+*.nupkg
+*.snupkg
+
+# .NET user- and machine-local files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# ------------------------------------------------------------
+# JetBrains Rider / IntelliJ
+# ------------------------------------------------------------
+.idea/
+*.sln.iml
+
+# ------------------------------------------------------------
+# Visual Studio / VS Code
+# ------------------------------------------------------------
+.vs/
+.vscode/
+
+# ------------------------------------------------------------
+# NuGet / local package caches and logs
+# ------------------------------------------------------------
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+*.log
+
+# ------------------------------------------------------------
+# Optional front-end tooling
+# ------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.yarn/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# ------------------------------------------------------------
+# OS-generated clutter
+# ------------------------------------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
